@@ -15,6 +15,7 @@
 .config
 .directory
 .elc
+.redcar
 .yardoc
 /.emacs.desktop
 /.emacs.desktop.lock
