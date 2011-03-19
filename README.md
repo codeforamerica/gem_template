@@ -17,3 +17,7 @@ After cloning this gem, you'll want to make the following changes:
 
 This template includes:
 * [rspec][rspec] for isolation testing
+* [simplecov][simplecov] for C0 code coverage
+
+[rspec]: https://github.com/rspec/rspec
+[simplecov]: https://github.com/colszowka/simplecov

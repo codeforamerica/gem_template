@@ -21,4 +21,5 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency('rake', '~> 0.8')
   s.add_development_dependency('rspec', '~> 2.5')
+  s.add_development_dependency('simplecov', '~> 0.4')
 end
