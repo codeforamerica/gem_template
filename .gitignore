@@ -1,11 +1,16 @@
+!.gitignore
 *.gem
 *.rbc
+*.sw[a-p]
+*~
+.*
 .DS_Store
 .Spotlight-V100
 .Trashes
 ._*
 .bundle
 .config
+.directory
 .yardoc
 Gemfile.lock
 Icon?
