@@ -12,9 +12,11 @@
 .config
 .directory
 .yardoc
+Desktop.ini
 Gemfile.lock
 Icon?
 InstalledFiles
+Thumbs.db
 _yardoc
 coverage
 doc/
