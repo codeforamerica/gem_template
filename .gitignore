@@ -2,6 +2,7 @@
 *.gem
 *.rbc
 *.sw[a-p]
+*.un~
 *~
 .*
 .DS_Store
@@ -16,6 +17,7 @@ Desktop.ini
 Gemfile.lock
 Icon?
 InstalledFiles
+Session.vim
 Thumbs.db
 _yardoc
 coverage
