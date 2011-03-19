@@ -12,14 +12,19 @@
 .bundle
 .config
 .directory
+.elc
 .yardoc
+/.emacs.desktop
+/.emacs.desktop.lock
 Desktop.ini
 Gemfile.lock
 Icon?
 InstalledFiles
 Session.vim
 Thumbs.db
+\#*\#
 _yardoc
+auto-save-list
 coverage
 doc/
 lib/bundler/man
@@ -30,3 +35,4 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+tramp
