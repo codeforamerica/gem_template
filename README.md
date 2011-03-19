@@ -16,8 +16,10 @@ After cloning this gem, you'll want to make the following changes:
 [gemspec]: https://github.com/codeforamerica/gem_template/blob/master/gem_template.gemspec
 
 This template includes:
-* [rspec][rspec] for isolation testing
-* [simplecov][simplecov] for C0 code coverage
+* [RSpec][rspec] for isolation testing
+* [SimpleCov][simplecov] for C0 code coverage
+* [ZenTest][zentest] for continuous testing
 
 [rspec]: https://github.com/rspec/rspec
 [simplecov]: https://github.com/colszowka/simplecov
+[zentest]: https://github.com/seattlerb/zentest
