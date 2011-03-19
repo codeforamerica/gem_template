@@ -14,3 +14,6 @@ After cloning this gem, you'll want to make the following changes:
 2. Add a summary and description to the [gemspec][gemspec] file
 
 [gemspec]: https://github.com/codeforamerica/gem_template/blob/master/gem_template.gemspec
+
+This template includes:
+* [rspec][rspec] for isolation testing
