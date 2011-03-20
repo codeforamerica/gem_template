@@ -19,7 +19,9 @@ This template includes:
 * [RSpec][rspec] for isolation testing
 * [SimpleCov][simplecov] for C0 code coverage
 * [ZenTest][zentest] for continuous testing
+* [YARD][yard] for documentation
 
 [rspec]: https://github.com/rspec/rspec
 [simplecov]: https://github.com/colszowka/simplecov
 [zentest]: https://github.com/seattlerb/zentest
+[yard]: https://github.com/lsegal/yard
