@@ -10,12 +10,14 @@ For more information on RubyGems, you should read the [RubyGems Manuals][manuals
 [manuals]: http://docs.rubygems.org/
 
 After cloning this gem, you'll want to make the following changes:
+
 1. Replace all instances of gem_template and GemTemplate with the snake_case and CamelCase name of your gem, respectively
 2. Add a summary and description to the [gemspec][gemspec] file
 
 [gemspec]: https://github.com/codeforamerica/gem_template/blob/master/gem_template.gemspec
 
 This template includes:
+
 * [RSpec][rspec] for isolation testing
 * [SimpleCov][simplecov] for C0 code coverage
 * [ZenTest][zentest] for continuous testing
