@@ -6,7 +6,6 @@
 *.tmproject
 *.un~
 *~
-.*
 .DS_Store
 .Spotlight-V100
 .Trashes
