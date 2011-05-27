@@ -27,3 +27,6 @@ This template includes:
 [simplecov]: https://github.com/colszowka/simplecov
 [zentest]: https://github.com/seattlerb/zentest
 [yard]: https://github.com/lsegal/yard
+
+
+[![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/gem_template.png)](http://stats.codeforamerica.org/projects/gem_template)
