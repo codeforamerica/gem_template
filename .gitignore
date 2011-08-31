@@ -1,4 +1,3 @@
-!.gitignore
 *.gem
 *.rbc
 *.sw[a-p]
@@ -14,10 +13,10 @@
 .config
 .directory
 .elc
+.emacs.desktop
+.emacs.desktop.lock
 .redcar
 .yardoc
-/.emacs.desktop
-/.emacs.desktop.lock
 Desktop.ini
 Gemfile.lock
 Icon?
@@ -28,7 +27,7 @@ Thumbs.db
 _yardoc
 auto-save-list
 coverage
-doc/
+doc
 lib/bundler/man
 pkg
 pkg/*
