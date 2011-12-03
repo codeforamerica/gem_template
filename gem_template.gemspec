@@ -2,11 +2,11 @@
 require File.expand_path('../lib/gem_template/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.add_development_dependency 'rake', '~> 0.9'
-  gem.add_development_dependency 'rdiscount', '~> 1.6'
-  gem.add_development_dependency 'rspec', '~> 2.6'
-  gem.add_development_dependency 'simplecov', '~> 0.4'
-  gem.add_development_dependency 'yard', '~> 0.7'
+  gem.add_development_dependency 'rake'
+  gem.add_development_dependency 'rdiscount'
+  gem.add_development_dependency 'rspec'
+  gem.add_development_dependency 'simplecov'
+  gem.add_development_dependency 'yard'
   gem.author      = "Code for America"
   gem.description = %q{TODO: Write a gem description}
   gem.email       = 'info@codeforamerica.org'
