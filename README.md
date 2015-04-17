@@ -1,7 +1,8 @@
 # The Code for America RubyGem template
 
-If you want to create a new Code for America gem, you can use this gem as a template.
-It's similar to [suspenders][suspenders], but for RubyGems instead of Rails.
+If you want to create a new Code for America gem, you can use this gem as a
+template. It's similar to [suspenders][suspenders], but for RubyGems instead of
+Rails.
 
 [suspenders]: https://github.com/thoughtbot/suspenders
 
@@ -25,8 +26,4 @@ This template includes:
 
 [rspec]: https://github.com/rspec/rspec
 [simplecov]: https://github.com/colszowka/simplecov
-[zentest]: https://github.com/seattlerb/zentest
 [yard]: https://github.com/lsegal/yard
-
-
-[![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/gem_template.png)](http://stats.codeforamerica.org/projects/gem_template)
